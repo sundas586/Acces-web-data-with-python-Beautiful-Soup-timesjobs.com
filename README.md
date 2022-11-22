@@ -97,6 +97,15 @@ We went to www.timesjobs.com, in its search skilss query bar, I wrote "python", 
 ![b](https://user-images.githubusercontent.com/33677647/203438575-d5eab4a1-be93-4f76-8579-ad7a4fdd2e19.JPG)
 ![c](https://user-images.githubusercontent.com/33677647/203438585-56d86843-0c78-4dfd-bebe-22f849e05180.JPG)
 
+as h3 tag with class = 'joblist-comp-name', contains the titles of posted jobs
+
+![d](https://user-images.githubusercontent.com/33677647/203443069-7b7ca1e7-a41a-4500-a22b-0a284fc008de.JPG)
+
+but!!!! that h5 tag obviously is also in its parent tags, and that parent tag is <li>
+
+![a](https://user-images.githubusercontent.com/33677647/203443652-85e47cf0-9769-45f8-a8eb-2ee15d31c521.JPG)
+
+
 
 
 
