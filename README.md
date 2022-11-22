@@ -71,6 +71,25 @@ Lets use .split()[-1] because we want only last element
 
 ![00](https://user-images.githubusercontent.com/33677647/203429996-610bca9f-5a50-40d7-ac07-c7b6c21d4d07.JPG)
 
+Scrape real website with **Request library**.
+scrape job advertisement that has the python as main job role from a job advertisment library.
+
+'''<br/>
+Step 1 : intall all packages<br/>
+'''<br/>
+
+
+- **pip intall request** (only brings the content of any HTML web page over internet, it only bring the content and not parse it).
+- **pip install beautifulsoup4** (Beautiful Soup for scraping and parsing data of the html content)<br/>
+- **pip install lxml** (A method that helps python to parse html files/ tags and elements,
+                    the best parser for beautifulsoup is lxml, it helps well in parsing bad html code,
+                    the other parser for beautifulsoup is html5lib )<br/>  
+- **import request**                
+- **from bs4 import BeautifulSoup**                    
+
+'''<br/>
+step 2 : Fetch HTML contents of given url as string<br/>
+'''<br/>         
 
 
 
