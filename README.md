@@ -51,6 +51,16 @@ as all divs of all the courses have same class = 'card'.
 ![1](https://user-images.githubusercontent.com/33677647/203426940-038c6352-2175-473a-886e-25763c85d8d4.JPG)
 
 As we see that in our all divs, it is h5 that have the names of all courses, it means we only need h5 in div.
+so we use h5 tags as attributes ".h5" and got all h5 tags :
+
+![1](https://user-images.githubusercontent.com/33677647/203427269-e38ab233-f7aa-4e46-89dd-d5370fbc5165.JPG)
+
+as all the prices are also in anchor tags, so to fetch course name and price all together we do like :
+
+![a](https://user-images.githubusercontent.com/33677647/203428525-2946ae5e-800c-4ee1-9ed0-d7666fae5b8a.JPG)
+![b](https://user-images.githubusercontent.com/33677647/203428534-4a3337c5-6689-4887-8c93-e03415054e16.JPG)
+
+
 
 
 
