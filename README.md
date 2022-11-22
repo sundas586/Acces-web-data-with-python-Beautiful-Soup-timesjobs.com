@@ -26,5 +26,16 @@ step 3 : Parse the HTML string<br/>
 
 ![2](https://user-images.githubusercontent.com/33677647/203418583-18d630fa-304c-4f47-bcf3-8d709de4e4fe.JPG)
 
+'''<br/>
+step 4 : HTML tree traversal<br/>
+'''<br/>
+
+### get all html h5 tags :
+
+![1](https://user-images.githubusercontent.com/33677647/203420853-c6bd001d-a69f-4ee9-a71c-baf364f9d6a9.JPG)
+![2](https://user-images.githubusercontent.com/33677647/203420864-fb8b3540-72da-4c36-b3c7-b7424c2bb4c7.JPG)
+
+
+
 
 
