@@ -91,6 +91,11 @@ Step 1 : intall all packages<br/>
 step 2 : Fetch HTML contents of given url as string<br/>
 '''<br/>         
 
+We went to www.timesjobs.com, in its search skilss query bar, I wrote "python", so a new page with jobs with python appeared, I copied the link of that python query filtered page :
+
+![a](https://user-images.githubusercontent.com/33677647/203438568-a229481c-d8c1-434d-aa1a-61c23c503d7e.JPG)
+![b](https://user-images.githubusercontent.com/33677647/203438575-d5eab4a1-be93-4f76-8579-ad7a4fdd2e19.JPG)
+![c](https://user-images.githubusercontent.com/33677647/203438585-56d86843-0c78-4dfd-bebe-22f849e05180.JPG)
 
 
 
