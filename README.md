@@ -8,6 +8,7 @@ Step 1 : intall all packages<br/>
 - **pip install lxml** (A method that helps python to parse html files/ tags and elements,
                     the best parser for beautifulsoup is lxml, it helps well in parsing bad html code,
                     the other parser for beautifulsoup is html5lib )<br/>
+- **from bs4 import BeautifulSoup**                    
 
 '''<br/>
 step 2 : Fetch HTML contents of given url as string<br/>
@@ -59,6 +60,16 @@ as all the prices are also in anchor tags, so to fetch course name and price all
 
 ![a](https://user-images.githubusercontent.com/33677647/203428525-2946ae5e-800c-4ee1-9ed0-d7666fae5b8a.JPG)
 ![b](https://user-images.githubusercontent.com/33677647/203428534-4a3337c5-6689-4887-8c93-e03415054e16.JPG)
+![c](https://user-images.githubusercontent.com/33677647/203428770-e935b4db-353b-4f67-97ad-2d374381e91f.JPG)
+
+### Lets print a sentence like : python for begginners costs $20 :
+
+Lets use .split()[-1] because we want only last element 
+
+![a](https://user-images.githubusercontent.com/33677647/203429829-6a2dd478-8dc2-486c-9c9d-dfba0e74d5bc.JPG)
+![b](https://user-images.githubusercontent.com/33677647/203429841-c93a7eeb-71e0-41e6-bfda-0638ebf40d26.JPG)
+
+![00](https://user-images.githubusercontent.com/33677647/203429996-610bca9f-5a50-40d7-ac07-c7b6c21d4d07.JPG)
 
 
 
