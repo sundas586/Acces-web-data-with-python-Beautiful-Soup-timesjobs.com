@@ -32,7 +32,7 @@ step 3 : Parse the HTML string<br/>
 step 4 : HTML tree traversal<br/>
 '''<br/>
 
-### get all html h5 tags :
+### Get all html h5 tags :
 
 ![1](https://user-images.githubusercontent.com/33677647/203420853-c6bd001d-a69f-4ee9-a71c-baf364f9d6a9.JPG)
 ![2](https://user-images.githubusercontent.com/33677647/203420864-fb8b3540-72da-4c36-b3c7-b7424c2bb4c7.JPG)
@@ -41,6 +41,22 @@ as all the courses names in our html are in h5, and the above script is giving t
 
 ![2](https://user-images.githubusercontent.com/33677647/203423779-ae421169-6d4d-4aa1-abe2-cdca68b14c49.JPG)
 ![3](https://user-images.githubusercontent.com/33677647/203423796-f5900d7c-a2f1-427b-9282-69135fe7ebcf.JPG)
+
+### Get name of all courses + their related course prices :
+
+as all divs of all the courses have same class = 'card'.
+
+![1](https://user-images.githubusercontent.com/33677647/203426319-8a6eaebe-16c2-49cd-a5fa-a3a0a2951efc.JPG)
+![4](https://user-images.githubusercontent.com/33677647/203426458-ae0b5950-a982-46af-8aaf-2ae157777c7e.JPG)
+![1](https://user-images.githubusercontent.com/33677647/203426940-038c6352-2175-473a-886e-25763c85d8d4.JPG)
+
+As we see that in our all divs, it is h5 that have the names of all courses, it means we only need h5 in div.
+
+
+
+
+
+
 
 
 
