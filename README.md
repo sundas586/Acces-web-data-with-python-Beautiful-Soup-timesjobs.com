@@ -13,6 +13,8 @@ Step 1 : intall all packages<br/>
 step 2 : Fetch HTML contents of given url as string<br/>
 '''<br/>         
 
+![1](https://user-images.githubusercontent.com/33677647/203423729-7d9ff19d-b682-429e-ace1-a18ef81173de.JPG)
+
 as here we donot use a website but a html file already in our system so we just fetch it by with open statement instead of :<br/>
 r = requests.get(url) # get request for desired url<br/>
 htmlContent = r.content<br/>
@@ -35,6 +37,10 @@ step 4 : HTML tree traversal<br/>
 ![1](https://user-images.githubusercontent.com/33677647/203420853-c6bd001d-a69f-4ee9-a71c-baf364f9d6a9.JPG)
 ![2](https://user-images.githubusercontent.com/33677647/203420864-fb8b3540-72da-4c36-b3c7-b7424c2bb4c7.JPG)
 
+as all the courses names in our html are in h5, and the above script is giving the names of the courses with the whole tag, so lets use a for loop to fetch them, with out tags :
+
+![2](https://user-images.githubusercontent.com/33677647/203423779-ae421169-6d4d-4aa1-abe2-cdca68b14c49.JPG)
+![3](https://user-images.githubusercontent.com/33677647/203423796-f5900d7c-a2f1-427b-9282-69135fe7ebcf.JPG)
 
 
 
